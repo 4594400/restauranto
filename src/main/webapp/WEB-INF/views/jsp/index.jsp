@@ -4,8 +4,8 @@
 <%@ taglib prefix="spring" uri="http://www.springframework.org/tags"%>
 <html>
 <body>
-<h2>Hello restouraun!</h2>
-<table border="0.2" style="align-items: center" class="table table-striped">
+<h2>Hello restauranto!</h2>
+<table border="1" >
     <thead style = "color:white;background-color:dimgrey">
     <tr>
         <th>Имя</th>
