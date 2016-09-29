@@ -6,7 +6,7 @@
 <body>
 <h2>Hello restauranto!</h2>
 <table border="1" >
-    <thead style = "color:white;background-color:dimgrey">
+    <thead style = "color:white; background-color:dimgrey">
     <tr>
         <th>Имя</th>
         <th>Фамилия</th>
